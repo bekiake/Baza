@@ -1,0 +1,2 @@
+# Baza
+Desktop programma bazasi
